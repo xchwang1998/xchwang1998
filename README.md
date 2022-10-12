@@ -2,7 +2,7 @@
 - 👀 I’m interested in point clouds process.
 - 🌱 I’m currently learning SLAM by LiDAR and IMU.
 - 💞️ I’m looking to collaborate on laser SLAM.
-- 📫 WuHan, Hubei, China
+- 📫 WuHan, China
 
 <!---
 xchwang1998/xchwang1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
