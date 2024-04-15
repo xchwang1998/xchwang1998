@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xchwang1998
 - 👀 I’m interested in point clouds process.
-- 🌱 I’m currently learning SLAM by LiDAR and IMU.
-- 💞️ I’m looking to collaborate on laser SLAM.
+- 🌱 I’m currently learning LiDAR SLAM.
+- 💞️ I’m looking to collaborate on the forest inventory by novel sensors.
 - 📫 WuHan, China
 
 <!---
