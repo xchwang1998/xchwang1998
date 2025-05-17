@@ -2,7 +2,7 @@
 - 👀 I’m interested in point clouds process.
 - 🌱 I’m currently learning LiDAR SLAM.
 - 💞️ I’m looking to collaborate on the forest inventory by novel sensors.
-- 📫 WuHan, China
+- 📫 WuHan, China (xchwang@whu.edu.cn)
 
 <!---
 xchwang1998/xchwang1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
